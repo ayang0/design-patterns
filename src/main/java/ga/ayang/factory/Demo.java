@@ -4,6 +4,9 @@ import ga.ayang.factory.factory.Dialog;
 import ga.ayang.factory.factory.HtmlDialog;
 import ga.ayang.factory.factory.WindowsDialog;
 
+/**
+ * 使用时调用工厂 选择子类
+ */
 public class Demo {
     // 使用
     private static Dialog dialog;

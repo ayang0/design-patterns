@@ -1,6 +1,7 @@
 package ga.ayang.factory.buttons;
 
 /**
+ * 产品
  * 在工厂模式中充当产品的通用接口
  * button接口
  */
